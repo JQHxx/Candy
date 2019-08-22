@@ -53,4 +53,6 @@ Open the workspace in Xcode
   ```ruby
   open "Candy.xcworkspace"
   ```
+  
+  libwebp导入：https://cloud.tencent.com/developer/article/1337723
 
